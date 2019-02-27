@@ -1,4 +1,6 @@
-# sky-driller
+# Vue + Vuetify Frontend
+
+This is a simple frontend built to test Vue2.5 and Vuetify 1.3, it contains a navbar, a couple screens and a blog layout
 
 ## Project setup
 ```
